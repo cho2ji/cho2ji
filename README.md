@@ -11,6 +11,8 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 ### Latest Blog Posts in [velog](https://velog.io/@choi_jiwoo)
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code pylint unable to import 문제 해결](https://velog.io/@choi_jiwoo/VS-Code-pylint-unable-to-import-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+- [파이썬 가상환경 설정 with venv](https://velog.io/@choi_jiwoo/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-with-venv-fldvipan)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
