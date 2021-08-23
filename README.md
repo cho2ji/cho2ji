@@ -7,6 +7,11 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - 🔭 currently working on things related with stock marktet data
 - 🌱 currently learning Python, SQL, and data engineering.
 - 🔎 interested in data engineering/data analytics and how data can bring about change.
+
+### More about me
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
 ---
 ### Latest Blog Posts in [velog](https://velog.io/@choi_jiwoo)
 
