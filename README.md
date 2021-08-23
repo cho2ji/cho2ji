@@ -8,12 +8,15 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - 🌱 currently learning Python, SQL, and data engineering.
 - 🔎 interested in data engineering/data analytics and how data can bring about change.
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts in [velog](https://velog.io/@choi_jiwoo)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[My blog (in Korean)](https://velog.io/@choi_jiwoo)
+### StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ### Favorite quote
 > "The people who are crazy enough to think they can change the world are the one's who do"
