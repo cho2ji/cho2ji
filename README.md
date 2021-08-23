@@ -7,7 +7,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - 🔭 currently working on things related with stock marktet data
 - 🌱 currently learning Python, SQL, and data engineering.
 - 🔎 interested in data engineering/data analytics and how data can bring about change.
-
+---
 ### Latest Blog Posts in [velog](https://velog.io/@choi_jiwoo)
 
 <!-- BLOG-POST-LIST:START -->
