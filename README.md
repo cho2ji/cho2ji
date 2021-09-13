@@ -5,11 +5,13 @@
 Currently studying for a bachelor's degree in e-business at Ajou University in Republic of Korea 🇰🇷
 
 - 🔭 currently working on things related with stock marktet data
-- 🌱 currently learning Python, SQL, and data engineering.
+- 💻 languages I use are Python, R, SQL
+- 🌱 currently learning data engineering.
 - 🔎 interested in data engineering/data analytics and how data can bring about change.
 
 ### More about me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ef8236?logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15121432/jiwoo-choi)
