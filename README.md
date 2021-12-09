@@ -17,8 +17,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 -->
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
-[![velog](https://img.shields.io/badge/velog-00B97D?logo=rss&logoColor=ffffff)](https://velog.io/@choi_jiwoo)
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-ef8236?logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/15121432/jiwoo-choi)
+[![dev.to](https://img.shields.io/badge/dev.to-lightgrey?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
 ---
 
 ### Activities
