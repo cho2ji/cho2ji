@@ -22,7 +22,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 
 ### Activities
 
-### Latest Blog Posts in velog
+### Latest Blog Posts in dev.to
 <!-- BLOG-POST-LIST:START -->
 - [미국 상장 기업 공시 데이터](https://velog.io/@choi_jiwoo/%EB%AF%B8%EA%B5%AD-%EC%83%81%EC%9E%A5-%EA%B8%B0%EC%97%85-%EA%B3%B5%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [pytest 유튜브 영상 추천](https://velog.io/@choi_jiwoo/pytest-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81-%EC%B6%94%EC%B2%9C)
