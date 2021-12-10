@@ -24,10 +24,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 
 ### Latest Blog Posts in dev.to
 <!-- BLOG-POST-LIST:START -->
-- [미국 상장 기업 공시 데이터](https://velog.io/@choi_jiwoo/%EB%AF%B8%EA%B5%AD-%EC%83%81%EC%9E%A5-%EA%B8%B0%EC%97%85-%EA%B3%B5%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0)
-- [pytest 유튜브 영상 추천](https://velog.io/@choi_jiwoo/pytest-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81-%EC%B6%94%EC%B2%9C)
-- [VS Code pylint unable to import 문제 해결](https://velog.io/@choi_jiwoo/VS-Code-pylint-unable-to-import-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
-- [파이썬 가상환경 설정 with venv](https://velog.io/@choi_jiwoo/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-with-venv-fldvipan)
+- [파이썬 가상환경 설정 with venv](https://dev.to/choijiwoo/paisseon-gasanghwangyeong-seoljeong-with-venv-3ai1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Answers in stackoverflow
