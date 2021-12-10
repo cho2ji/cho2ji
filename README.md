@@ -17,7 +17,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 -->
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
-[![dev.to](https://img.shields.io/badge/dev.to-lightgrey?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
+[![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
 ---
 
 ### Activities
