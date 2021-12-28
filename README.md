@@ -24,6 +24,7 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 
 ### Latest Blog Posts in dev.to
 <!-- BLOG-POST-LIST:START -->
+- [VS Code pylint unable to import 문제 해결](https://dev.to/choijiwoo/vs-code-pylint-unable-to-import-munje-haegyeol-2n96)
 - [파이썬 가상환경 설정 with venv](https://dev.to/choijiwoo/paisseon-gasanghwangyeong-seoljeong-with-venv-3ai1)
 <!-- BLOG-POST-LIST:END -->
 
