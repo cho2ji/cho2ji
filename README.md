@@ -10,15 +10,13 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - 🔎 interested in tech industry generally, data engineering/data analytics and how technology and data can bring about change.
 
 ### Find more about me
-
 <!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 [![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
 ---
 
 ### Activities
