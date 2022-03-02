@@ -7,9 +7,9 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - 🔭 currently working on things related with stock marktet data and capstone project.
 -->
 
-- 🌱 currently learning data engineering/analytics and programming.
-- 💻 languages I use are Python, R, and SQL.
-- 🔎 interested in tech industry generally, data engineering, data analytics, and how technology and data can bring about change.
+- 🌱 Currently learning data analytics, data engineering.
+- 💻 Languages I use are Python, R, and SQL.
+- 🔎 Interested in tech industry generally, data analytics, data engineering, and how technology and data can bring about change.
 
 ### Find more about me
 <!--
