@@ -32,12 +32,14 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 - [미국 상장 기업 공시 데이터](https://dev.to/choijiwoo/migug-sangjang-gieob-gongsi-deiteo-g83)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ### Answers in stackoverflow
-<!-- STACKOVERFLOW:START -->
+< ! - - STACKOVERFLOW:START - - >
 - [Answer by Jiwoo Choi for Failed to install mongo db in Mac Big Sur](https://stackoverflow.com/questions/63649370/failed-to-install-mongo-db-in-mac-big-sur/68812332#68812332)
 - [Answer by Jiwoo Choi for pandas add sql table, check if table exists](https://stackoverflow.com/questions/27939643/pandas-add-sql-table-check-if-table-exists/68572608#68572608)
 - [Answer by Jiwoo Choi for TypeError: object of type 'int' has no len() when using sop.brute](https://stackoverflow.com/questions/50405177/typeerror-object-of-type-int-has-no-len-when-using-sop-brute/65989709#65989709)
-<!-- STACKOVERFLOW:END -->
+< ! - - STACKOVERFLOW:END - - >
+-->
 
 ### Favorite quote
 > "The people who are crazy enough to think they can change the world are the one's who do"
