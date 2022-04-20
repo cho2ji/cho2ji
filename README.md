@@ -25,8 +25,8 @@ Currently studying for a bachelor's degree in e-business at Ajou University in R
 
 ### Latest Blog Posts in dev.to
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 - Machine Learning](https://dev.to/choijiwoo/day-1-what-is-machine-learning-45mp)
-- [Day 0 - Machine Learning](https://dev.to/choijiwoo/machine-learning-by-andrew-ng-2in)
+- [Lecture 1](https://dev.to/choijiwoo/day-1-what-is-machine-learning-45mp)
+- [Machine Learning by Andrew Ng](https://dev.to/choijiwoo/machine-learning-by-andrew-ng-2in)
 - [investing.com 과거 주가 데이터 크롤링](https://dev.to/choijiwoo/investingcom-gwageo-juga-deiteo-keurolring-59f2)
 - [네이버 금융 과거 주가 데이터 크롤링](https://dev.to/choijiwoo/neibeo-geumyungeseo-juga-deiteo-bulreoogi-3jem)
 - [미국 상장 기업 공시 데이터](https://dev.to/choijiwoo/migug-sangjang-gieob-gongsi-deiteo-g83)
