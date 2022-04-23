@@ -4,7 +4,7 @@
 
 Currently studying for a bachelor's degree in e-business at Ajou University in Republic of Korea 🇰🇷.
 <!--
-- 🔭 currently working on things related with stock marktet data and capstone project.
+- 🔭 currently working on things related with python portfolio management app.
 -->
 
 - 🌱 Currently learning data analytics, data engineering.
