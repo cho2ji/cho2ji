@@ -2,12 +2,11 @@
 
 ### I'm...
 
-Currently studying for a bachelor's degree in e-business at Ajou University in Republic of Korea 🇰🇷.
+Currently preparing for a graduate school. 
 <!--
 - 🔭 currently working on things related with python portfolio management app.
 -->
 
-- 🌱 Currently learning data analytics, data engineering.
 - 💻 Languages I use are Python, R, and SQL.
 - 🔎 Interested in tech industry generally, data analytics, data engineering, and how technology and data can bring about change.
 
