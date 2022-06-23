@@ -13,10 +13,10 @@ Currently preparing for a graduate school.
 ### Find more about me
 <!--
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
--->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
+-->
 [![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
 ---
 
