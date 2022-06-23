@@ -2,7 +2,8 @@
 
 ### I'm...
 
-Currently preparing for a graduate school. 
+Starting Master's in Industrial Engineering program at Yonsei University, South Korea
+
 <!--
 - 🔭 currently working on things related with python portfolio management app.
 -->
