@@ -1,28 +1,29 @@
 ### Hi there 👋
 
-### I'm...
+### I'm ...
 
-Starting Master's in Industrial Engineering program at Yonsei University, South Korea
+Starting Master's Program in Industrial Engineering at *Yonsei University*, from 2022 fall.
 
 <!--
 - 🔭 currently working on things related with python portfolio management app.
 -->
 
+### More About Me
+
+[![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
+
 - 🔎 Interested in tech industry generally, data Science, Data Engineering, and how technology and data can bring about change.
 - 💻 Language: Python, R, and SQL.
 - 🌱 Currently Learning: Machine Learning
 
-### Find more about me
 <!--
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 -->
-[![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
----
 
-### Activities
+## Activities
 
 ### Latest Blog Posts in dev.to
 <!-- BLOG-POST-LIST:START -->
@@ -42,7 +43,7 @@ Starting Master's in Industrial Engineering program at Yonsei University, South 
 < ! - - STACKOVERFLOW:END - - >
 -->
 
-### Favorite quote
+## Favorite quote
 > "The people who are crazy enough to think they can change the world are the one's who do"
 </br> Steve Jobs
 
