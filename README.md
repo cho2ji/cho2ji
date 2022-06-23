@@ -8,8 +8,9 @@ Starting Master's in Industrial Engineering program at Yonsei University, South 
 - 🔭 currently working on things related with python portfolio management app.
 -->
 
-- 💻 Languages I use are Python, R, and SQL.
-- 🔎 Interested in tech industry generally, data analytics, data engineering, and how technology and data can bring about change.
+- 🔎 Interested in tech industry generally, data Science, Data Engineering, and how technology and data can bring about change.
+- 💻 Language: Python, R, and SQL.
+- 🌱 Currently Learning: Machine Learning
 
 ### Find more about me
 <!--
