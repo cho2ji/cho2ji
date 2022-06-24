@@ -10,28 +10,25 @@ Starting Master's Program in Industrial Engineering at *Yonsei University*, from
 
 ### More About Me
 
-[![dev.to](https://img.shields.io/badge/dev.to-ffffff?logo=dev.to&logoColor=black)](https://dev.to/choijiwoo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/cho2_ji)
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?logo=instagram&logoColor=ffffff)](https://www.instagram.com/cho2_ji/)
+[![velog](https://img.shields.io/badge/velog-white?logo=velog&logoColor=%2320C997)](https://velog.io/@choi-jiwoo)
+[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
+[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
 - 🔎 Interested in tech industry generally, data Science, Data Engineering, and how technology and data can bring about change.
 - 💻 Language: Python, R, and SQL.
 - 🌱 Currently Learning: Machine Learning
 
 <!--
+
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 -->
 
 ## Activities
 
-### Latest Blog Posts in dev.to
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [&#39;python&#39; 응용프로그램이 들어오는 네트워크 연결을 허락하도록 하겠습니까?](https://dev.to/choijiwoo/python-eungyongpeurogeuraemi-deuleooneun-neteuweokeu-yeongyeoleul-heoraghadorog-hagessseubnigga-515h)
-- [investing.com 과거 주가 데이터 크롤링](https://dev.to/choijiwoo/investingcom-gwageo-juga-deiteo-keurolring-59f2)
-- [네이버 금융 과거 주가 데이터 크롤링](https://dev.to/choijiwoo/neibeo-geumyungeseo-juga-deiteo-bulreoogi-3jem)
-- [미국 상장 기업 공시 데이터](https://dev.to/choijiwoo/migug-sangjang-gieob-gongsi-deiteo-g83)
-- [VS Code pylint unable to import 문제 해결](https://dev.to/choijiwoo/vs-code-pylint-unable-to-import-munje-haegyeol-2n96)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!--
