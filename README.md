@@ -2,7 +2,11 @@
 
 ### I'm ...
 
-Starting Master's Program in Industrial Engineering at *Yonsei University*, from 2022 fall.
+Starting Master's in Industrial Engineering program in *Yonsei University* from 2022 Fall semester.
+
+Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
+
+I want to be involved in the great changes that are happening now with big data and AI technologies in many other industries not only in IT.
 
 <!--
 - 🔭 currently working on things related with python portfolio management app.
@@ -14,7 +18,6 @@ Starting Master's Program in Industrial Engineering at *Yonsei University*, from
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
-- 🔎 Interested in tech industry generally, data Science, Data Engineering, and how technology and data can bring about change.
 - 💻 Language: Python, R, and SQL.
 - 🌱 Currently Learning: Machine Learning
 
@@ -26,7 +29,7 @@ Starting Master's Program in Industrial Engineering at *Yonsei University*, from
 
 ## Activities
 
-### Latest Blog Posts
+### Latest Blog Posts in velog
 <!-- BLOG-POST-LIST:START -->
 - [AI 기술의 본질과 산업에의 응용](https://velog.io/@choi-jiwoo/%EC%84%9C%EC%9A%B8%EB%8C%80-AI-%EC%BD%9C%EB%A1%9C%ED%80%B4%EC%9B%80-AI-%EA%B8%B0%EC%88%A0%EC%9D%98-%EB%B3%B8%EC%A7%88%EA%B3%BC-%EC%82%B0%EC%97%85%EC%97%90%EC%9D%98-%EC%9D%91%EC%9A%A9)
 <!-- BLOG-POST-LIST:END -->
