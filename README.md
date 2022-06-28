@@ -18,7 +18,7 @@ I want to be involved in the great changes that are happening now with big data 
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
-- 💻 Language: Python, R, and SQL.
+- 💻 Language: Python, R, and SQL
 - 🌱 Currently Learning: Machine Learning
 
 <!--
