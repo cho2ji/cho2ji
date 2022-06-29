@@ -6,8 +6,6 @@ Starting Master's in Industrial Engineering program in *Yonsei University* from 
 
 Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
 
-I want to be involved in the great changes that are happening now with big data and AI technologies in many other industries not only in IT.
-
 <!--
 - 🔭 currently working on things related with python portfolio management app.
 -->
