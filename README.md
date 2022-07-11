@@ -13,14 +13,13 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 ### More About Me
 
 [![velog](https://img.shields.io/badge/velog-white?logo=velog&logoColor=%2320C997)](https://velog.io/@choi-jiwoo)
-[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
 - 💻 Language: Python, R, and SQL
 - 🌱 Currently Learning: Machine Learning
 
 <!--
-
+[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
 -->
