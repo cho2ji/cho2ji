@@ -12,7 +12,7 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 
 ### More About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ji-woo-choi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=2867B2)](https://www.linkedin.com/in/ji-woo-choi/)
 [![velog](https://img.shields.io/badge/velog-white?logo=velog&logoColor=%2320C997)](https://velog.io/@choi-jiwoo)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
