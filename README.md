@@ -21,7 +21,7 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/choijiwoo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ji-woo-choi/)
 -->
 
 ## Activities
