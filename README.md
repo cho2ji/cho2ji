@@ -2,7 +2,7 @@
 
 ### I'm ...
 
-Starting Master's in Industrial Engineering program in *Yonsei University* from 2022 Fall semester.
+Studying for a Master's degree in Industrial Engineering in *Yonsei University*.
 
 Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
 
