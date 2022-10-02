@@ -2,7 +2,7 @@
 
 ### I'm ...
 
-Studying for a Master's degree in Industrial Engineering in *Yonsei University*.
+Studying for a Master's degree in Industrial Engineering in *Yonsei University* under [Systems Intelligence Laboratory](https://www.systemintelligencelab.website/).
 
 Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
 
@@ -17,7 +17,7 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
 - 💻 Language: Python, R, and SQL
-- 🌱 Currently Learning: Machine Learning
+- 🌱 Currently Learning: Machine Learning, Online Learning
 
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
