@@ -17,7 +17,7 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
 - 💻 Language: Python, R, and SQL
-- 🌱 Currently Learning: Machine Learning, Online Learning
+- 🌱 Currently Learning: Machine Learning, Deep Learning
 
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
