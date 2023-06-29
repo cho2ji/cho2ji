@@ -19,6 +19,9 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 - 📚 Interests: *Data Science, Data Engineering, MLOps*
 - 🌱 Currently Learning: *Machine Learning, Deep Learning*
 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,r,js&theme=light)](https://skillicons.dev)
+
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
 [![kaggle](https://img.shields.io/badge/kaggle-5ABBF9?logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/cho2jiwoo)
