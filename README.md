@@ -2,7 +2,7 @@
 
 ### I'm ...
 
-Studying for a Master's degree in Industrial Engineering in *Yonsei University* under [Systems Intelligence Laboratory](https://www.systemintelligencelab.website/).
+Studying for a Master's degree in Industrial Engineering at *Yonsei University* under [Systems Intelligence Laboratory](https://www.systemintelligencelab.website/).
 
 Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
 
