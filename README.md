@@ -20,7 +20,11 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 - 🌱 Currently Learning: *Machine Learning, Deep Learning*
 
 ### Languages
+<!--
 [![My Skills](https://skillicons.dev/icons?i=py,r,js&theme=light)](https://skillicons.dev)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-jiwoo&layout=compact&hide=jupyter%20notebook)
 
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter&logoColor=1DA1F2)](https://twitter.com/cho2_ji)
