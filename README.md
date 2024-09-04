@@ -2,11 +2,10 @@
 
 ### I'm ...
 
-Currently studying for a Master's degree in Industrial Engineering at *Yonsei University* under [Systems Intelligence Laboratory](https://www.systemintelligencelab.website/).
-
 Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
 
 <!--
+- 🌱 Currently Learning: *MLOps*
 - 🔭 currently working on things related with python portfolio management app.
 -->
 
@@ -16,8 +15,7 @@ Interested in tech industry generally, Data Science, Data Engineering, and how t
 [![velog](https://img.shields.io/badge/velog-white?logo=velog&logoColor=%2320C997)](https://velog.io/@choi-jiwoo)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=E4405F)](https://www.instagram.com/cho2_ji/)
 
-- 📚 Interests: *Data Science, Data Engineering, MLOps*
-- 🌱 Currently Learning: *Machine Learning, Deep Learning*
+- 📚 Interests: *Machine Learning, Data Engineering, MLOps*
 
 ### Languages
 <!--
