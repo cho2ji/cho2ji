@@ -2,7 +2,8 @@
 
 ### I'm ...
 
-Interested in tech industry generally, Data Science, Data Engineering, and how technology and data can bring about change.
+- Interested in tech industry generally, ML/DL, Data Science, and how technology and data can bring about change.
+- Interested in leveraging AI to drive business value.
 
 <!--
 - 🌱 Currently Learning: *MLOps*
